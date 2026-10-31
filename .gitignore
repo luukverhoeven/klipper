@@ -16,3 +16,5 @@ klippy/extras/box_stepper.py
 !klippy/extras/box_rfid.so
 !klippy/extras/box_stepper.so
 
+!klippy/extras/buttons_irq.so
+!klippy/extras/multi_color_controller.so
